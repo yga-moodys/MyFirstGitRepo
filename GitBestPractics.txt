@@ -22,3 +22,5 @@ Commit from original master . add conflict
 
 Commit from branch feature-001
 Hotfix : fix-001
+
+Rebase : a destructive operation, all commit id of the branche are changed to new. 
