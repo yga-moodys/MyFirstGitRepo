@@ -24,3 +24,7 @@ Commit from branch feature-001
 Hotfix : fix-001
 
 Rebase : a destructive operation, all commit id of the branche are changed to new. 
+
+$ git config --global merge.tool meld
+
+$ git config --global mergetool.meld.path '/c/Program Files (x86)/Meld/Meld.exe'
