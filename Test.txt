@@ -1,1 +1,3 @@
 Commit from master
+
+Commit from master 2
