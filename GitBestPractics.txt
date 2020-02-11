@@ -10,3 +10,9 @@ Git commit log
 [enhancement]
 [remove]
 [refactor]
+
+Add remote in GitKraken
+Add
+Name original
+Url
+ssh://git@ssh.github.com:443/yga-moodys/MyFirstGitRepo
