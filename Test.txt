@@ -2,9 +2,7 @@ Commit from master
 
 Commit from master 2
 
-I want apple and orange.
+I want banana.
 
-$ git config --global merge.tool meld
 
-$ git config --global mergetool.meld.path '/c/Program Files (x86)/Meld/Meld.exe'
 
