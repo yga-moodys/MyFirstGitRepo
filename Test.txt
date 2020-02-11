@@ -1,8 +1,7 @@
 Commit from master
 
 Commit from master 2
-
-I want banana.
+I want apple and banana.
 
 
 
